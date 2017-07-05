@@ -2,6 +2,7 @@
 
 # testing
 /coverage
+/jest_0
 
 # misc
 .DS_Store
